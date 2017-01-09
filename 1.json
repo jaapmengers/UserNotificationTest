@@ -1,0 +1,14 @@
+{
+    "aps" : {
+      "alert" : {
+         "title": "Hallo?!",
+         "body": "Met de push!"
+      },
+      "mutable-content": 1,
+      "content-available": 0
+    },
+    "shipment-key": "3STEST45370252-NL-1315LB",
+	"deliveryPhase": 3,
+	"title": "PostNL",
+	"message": "Helaas, we hebben u gemist"
+}
